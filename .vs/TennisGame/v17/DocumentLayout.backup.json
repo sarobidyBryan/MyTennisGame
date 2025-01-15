@@ -148,7 +148,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\ITU\\prog\\TennisGame\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAA4wGwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T15:11:22.692Z",
               "IsPinned": true,
@@ -165,8 +165,7 @@
               "ViewState": "AgIAAKcAAAAAAAAAAAAuwMgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T20:02:29.281Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -178,8 +177,7 @@
               "RelativeToolTip": "FileWriter.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T00:26:50.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T00:26:50.869Z"
             },
             {
               "$type": "Document",
@@ -191,8 +189,7 @@
               "RelativeToolTip": "ScoreHistory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T00:23:00.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T00:23:00.905Z"
             },
             {
               "$type": "Document",
@@ -204,8 +201,7 @@
               "RelativeToolTip": "Connexion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T23:10:46.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T23:10:46.82Z"
             },
             {
               "$type": "Document",
@@ -242,8 +238,7 @@
               "RelativeToolTip": "Game.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAqwCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T22:32:15.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T22:32:15.333Z"
             },
             {
               "$type": "Document",
@@ -255,8 +250,7 @@
               "RelativeToolTip": "Set.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAmwCsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T22:31:32.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T22:31:32.887Z"
             },
             {
               "$type": "Document",
@@ -268,8 +262,7 @@
               "RelativeToolTip": "Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:39:52.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T16:39:52.1Z"
             },
             {
               "$type": "Document",
@@ -281,8 +274,7 @@
               "RelativeToolTip": "Match.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T22:32:56.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T22:32:56.686Z"
             },
             {
               "$type": "Document",
@@ -294,8 +286,7 @@
               "RelativeToolTip": "Cible.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T21:16:06.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T21:16:06.402Z"
             },
             {
               "$type": "Document",
@@ -307,8 +298,7 @@
               "RelativeToolTip": "Ball.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:51:41.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T16:51:41.662Z"
             },
             {
               "$type": "Document",
@@ -320,8 +310,7 @@
               "RelativeToolTip": "Shape.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAwwCMAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T07:08:00.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T07:08:00.494Z"
             },
             {
               "$type": "Document",
@@ -333,8 +322,7 @@
               "RelativeToolTip": "LineTrajectory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T12:41:45.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T12:41:45.357Z"
             },
             {
               "$type": "Document",
@@ -346,8 +334,7 @@
               "RelativeToolTip": "Trajectory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T12:39:56.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T12:39:56.27Z"
             },
             {
               "$type": "Document",
@@ -359,8 +346,7 @@
               "RelativeToolTip": "CibleMouvementService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T17:03:54.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T17:03:54.477Z"
             },
             {
               "$type": "Document",
@@ -372,8 +358,7 @@
               "RelativeToolTip": "TargetIndicator.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T14:43:43.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T14:43:43.331Z"
             },
             {
               "$type": "Document",
@@ -385,8 +370,7 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T08:12:43.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T08:12:43.662Z"
             },
             {
               "$type": "Document",
@@ -398,8 +382,7 @@
               "RelativeToolTip": "ShapeMovementService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T18:46:43.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T18:46:43.554Z"
             },
             {
               "$type": "Document",
@@ -411,8 +394,7 @@
               "RelativeToolTip": "TerrainControl.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T08:44:56.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T08:44:56.601Z"
             },
             {
               "$type": "Document",
@@ -424,8 +406,7 @@
               "RelativeToolTip": "GameBall.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T17:43:40.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T17:43:40.704Z"
             },
             {
               "$type": "Document",
@@ -437,8 +418,7 @@
               "RelativeToolTip": "CircleShape.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T11:44:24.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T11:44:24.548Z"
             },
             {
               "$type": "Document",
@@ -450,8 +430,7 @@
               "RelativeToolTip": "RectangleShape.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T17:32:31.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T17:32:31.97Z"
             },
             {
               "$type": "Document",
@@ -463,8 +442,7 @@
               "RelativeToolTip": "RectangleTrajectory.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T12:49:02.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T12:49:02.159Z"
             },
             {
               "$type": "Document",
@@ -476,8 +454,7 @@
               "RelativeToolTip": "CircleTrajectory.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T12:52:01.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T12:52:01.282Z"
             },
             {
               "$type": "Document",
@@ -489,8 +466,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T15:55:51.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T15:55:51.144Z"
             },
             {
               "$type": "Document",
@@ -502,8 +478,7 @@
               "RelativeToolTip": "IMovable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T03:57:57.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T03:57:57.005Z"
             },
             {
               "$type": "Document",
@@ -515,8 +490,7 @@
               "RelativeToolTip": "Terrain.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAuwBQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:08:16.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T17:08:16.695Z"
             },
             {
               "$type": "Document",
@@ -528,8 +502,7 @@
               "RelativeToolTip": "KeyboardManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T18:55:37.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T18:55:37.203Z"
             },
             {
               "$type": "Document",
@@ -540,8 +513,7 @@
               "ToolTip": "D:\\ITU\\prog\\TennisGame\\StartDialog.cs [Conception]",
               "RelativeToolTip": "StartDialog.cs [Conception]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T07:44:35.384Z",
-              "EditorCaption": " [Conception]"
+              "WhenOpened": "2025-01-14T07:44:35.384Z"
             },
             {
               "$type": "Document",
@@ -552,8 +524,7 @@
               "ToolTip": "D:\\ITU\\prog\\TennisGame\\Form1.cs [Conception]",
               "RelativeToolTip": "Form1.cs [Conception]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T08:19:44.59Z",
-              "EditorCaption": " [Conception]"
+              "WhenOpened": "2025-01-10T08:19:44.59Z"
             }
           ]
         }
