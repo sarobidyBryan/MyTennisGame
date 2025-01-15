@@ -1,0 +1,534 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITU\\prog\\TennisGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\circleshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:circleshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\tennisgamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:tennisgamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\gameball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:gameball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\rectangleshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:rectangleshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\rectangletrajectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:rectangletrajectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\circletrajectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:circletrajectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\terraincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:terraincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\shapemovementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:shapemovementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\targetindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:targetindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\ciblemouvementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:ciblemouvementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\trajectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:trajectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\linetrajectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:linetrajectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\cible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:cible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\startdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:startdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\court.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:court.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\scorehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:scorehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|D:\\ITU\\prog\\TennisGame\\startdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:startdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|D:\\ITU\\prog\\TennisGame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\keyboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:keyboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|d:\\itu\\prog\\tennisgame\\terrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022AA812-1BF3-4D0C-B29C-59F3BD879481}|TennisGame.csproj|solutionrelative:terrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 149,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 777,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:11:22.692Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TennisGameManager.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\TennisGameManager.cs",
+              "RelativeDocumentMoniker": "TennisGameManager.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\TennisGameManager.cs",
+              "RelativeToolTip": "TennisGameManager.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAuwMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T20:02:29.281Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\FileWriter.cs",
+              "RelativeDocumentMoniker": "FileWriter.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\FileWriter.cs",
+              "RelativeToolTip": "FileWriter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:26:50.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScoreHistory.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\ScoreHistory.cs",
+              "RelativeDocumentMoniker": "ScoreHistory.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\ScoreHistory.cs",
+              "RelativeToolTip": "ScoreHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T00:23:00.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Connexion.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\Connexion.cs",
+              "RelativeDocumentMoniker": "Connexion.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\Connexion.cs",
+              "RelativeToolTip": "Connexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:10:46.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "court.png - PNG [1152x1920, 32\u00A0bits, PNG]",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\court.png",
+              "RelativeDocumentMoniker": "court.png",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\court.png - PNG [1152x1920, 32\u00A0bits, PNG]",
+              "RelativeToolTip": "court.png - PNG [1152x1920, 32\u00A0bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-14T12:35:36.857Z",
+              "EditorCaption": " - PNG [1152x1920, 32\u00A0bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StartDialog.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\StartDialog.cs",
+              "RelativeDocumentMoniker": "StartDialog.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\StartDialog.cs",
+              "RelativeToolTip": "StartDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T07:37:42.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:32:15.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Set.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\Set.cs",
+              "RelativeDocumentMoniker": "Set.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\Set.cs",
+              "RelativeToolTip": "Set.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwCsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:31:32.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:39:52.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Match.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\Match.cs",
+              "RelativeDocumentMoniker": "Match.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\Match.cs",
+              "RelativeToolTip": "Match.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:32:56.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cible.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\Cible.cs",
+              "RelativeDocumentMoniker": "Cible.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\Cible.cs",
+              "RelativeToolTip": "Cible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T21:16:06.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\Ball.cs",
+              "RelativeDocumentMoniker": "Ball.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\Ball.cs",
+              "RelativeToolTip": "Ball.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:51:41.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCMAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T07:08:00.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LineTrajectory.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\LineTrajectory.cs",
+              "RelativeDocumentMoniker": "LineTrajectory.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\LineTrajectory.cs",
+              "RelativeToolTip": "LineTrajectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:41:45.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Trajectory.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\Trajectory.cs",
+              "RelativeDocumentMoniker": "Trajectory.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\Trajectory.cs",
+              "RelativeToolTip": "Trajectory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:39:56.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CibleMouvementService.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\CibleMouvementService.cs",
+              "RelativeDocumentMoniker": "CibleMouvementService.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\CibleMouvementService.cs",
+              "RelativeToolTip": "CibleMouvementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:03:54.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TargetIndicator.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\TargetIndicator.cs",
+              "RelativeDocumentMoniker": "TargetIndicator.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\TargetIndicator.cs",
+              "RelativeToolTip": "TargetIndicator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T14:43:43.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:12:43.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShapeMovementService.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\ShapeMovementService.cs",
+              "RelativeDocumentMoniker": "ShapeMovementService.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\ShapeMovementService.cs",
+              "RelativeToolTip": "ShapeMovementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T18:46:43.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TerrainControl.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\TerrainControl.cs",
+              "RelativeDocumentMoniker": "TerrainControl.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\TerrainControl.cs",
+              "RelativeToolTip": "TerrainControl.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:44:56.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameBall.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\GameBall.cs",
+              "RelativeDocumentMoniker": "GameBall.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\GameBall.cs",
+              "RelativeToolTip": "GameBall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:43:40.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CircleShape.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\CircleShape.cs",
+              "RelativeDocumentMoniker": "CircleShape.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\CircleShape.cs",
+              "RelativeToolTip": "CircleShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:44:24.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RectangleShape.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\RectangleShape.cs",
+              "RelativeDocumentMoniker": "RectangleShape.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\RectangleShape.cs",
+              "RelativeToolTip": "RectangleShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T17:32:31.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RectangleTrajectory.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\RectangleTrajectory.cs",
+              "RelativeDocumentMoniker": "RectangleTrajectory.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\RectangleTrajectory.cs",
+              "RelativeToolTip": "RectangleTrajectory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:49:02.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CircleTrajectory.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\CircleTrajectory.cs",
+              "RelativeDocumentMoniker": "CircleTrajectory.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\CircleTrajectory.cs",
+              "RelativeToolTip": "CircleTrajectory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T12:52:01.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:55:51.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\IMovable.cs",
+              "RelativeDocumentMoniker": "IMovable.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\IMovable.cs",
+              "RelativeToolTip": "IMovable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T03:57:57.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Terrain.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\Terrain.cs",
+              "RelativeDocumentMoniker": "Terrain.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\Terrain.cs",
+              "RelativeToolTip": "Terrain.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:08:16.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "KeyboardManager.cs",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\KeyboardManager.cs",
+              "RelativeDocumentMoniker": "KeyboardManager.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\KeyboardManager.cs",
+              "RelativeToolTip": "KeyboardManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T18:55:37.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StartDialog.cs [Conception]",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\StartDialog.cs",
+              "RelativeDocumentMoniker": "StartDialog.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\StartDialog.cs [Conception]",
+              "RelativeToolTip": "StartDialog.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T07:44:35.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "D:\\ITU\\prog\\TennisGame\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\ITU\\prog\\TennisGame\\Form1.cs [Conception]",
+              "RelativeToolTip": "Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:19:44.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
